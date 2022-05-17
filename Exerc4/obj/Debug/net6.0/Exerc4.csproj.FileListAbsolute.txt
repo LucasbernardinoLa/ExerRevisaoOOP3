@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\bin\Debug\net6.0\Exerc4.exe
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\bin\Debug\net6.0\Exerc4.deps.json
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\bin\Debug\net6.0\Exerc4.runtimeconfig.json
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\bin\Debug\net6.0\Exerc4.dll
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\bin\Debug\net6.0\Exerc4.pdb
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.dll
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\refint\Exerc4.dll
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.pdb
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\Exerc4.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExerRevisaoOOP3\Exerc4\obj\Debug\net6.0\ref\Exerc4.dll
