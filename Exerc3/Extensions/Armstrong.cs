@@ -6,7 +6,7 @@
         {
             int value = thisObj;
 
-            if (value == SomaValores(value))
+            if (value == SomaPot(value))
             {
                 Console.WriteLine($"{value} é um número de Armstrong ");
 
@@ -29,7 +29,7 @@
             return i;
         }
 
-        private static int SomaValores(int num)
+        private static int SomaPot(int num)
         {
             int count = AchaPot(num);
 
@@ -48,7 +48,7 @@
             Console.WriteLine("Números de Armstrong entre 1 e 10000 ");
             for (int n = 1; n <= 10000; n++)
             {
-                if (n == SomaValores(n)) Console.WriteLine(n);
+                if (n == SomaPot(n)) Console.WriteLine(n);
             }
         }
     }

@@ -5,7 +5,7 @@ try
     Console.WriteLine("Digite o número: ");
     int n = int.Parse(Console.ReadLine());
 
-    Armstrong.IsArmstrong(n);
+    n.IsArmstrong();
 }
 catch (Exception e)
 {
