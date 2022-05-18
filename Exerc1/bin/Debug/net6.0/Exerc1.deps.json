@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Exerc4/1.0.0": {
+      "Exerc1/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
-          "Exerc4.dll": {}
+          "Exerc1.dll": {}
         }
       },
       "Newtonsoft.Json/13.0.1": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "Exerc4/1.0.0": {
+    "Exerc1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,6 +1,4 @@
-﻿
-
-namespace Exerc4.Entities
+﻿namespace Exerc4.Entities
 {
     internal class Client : IComparable
     {
@@ -23,14 +21,14 @@ namespace Exerc4.Entities
                 }
                 return false;
             }
-            return false;
+            throw new FormatException("O objeto deve ser do tipo client!");
         }
 
         public int CompareTo(object? obj)
         {
             if(!(obj is Client))
             {
-                throw new ArgumentException("O objeto deve ser do tipo client! ");
+                throw new FormatException("O objeto deve ser do tipo client! ");
             }
             Client other = obj as Client;
             return Cpf.CompareTo(other.Cpf);
